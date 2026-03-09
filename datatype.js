@@ -45,6 +45,7 @@ let b=5;
 console.log(a>b);       //true
 console.log(a!=b);      //true
 */
+/* //switch
 let day="Wednesday";
 switch(day){
     case "Monday":       
@@ -64,4 +65,31 @@ switch(day){
         break;  
     default:       
     console.log("Invalid day");
+}*/
+/*
+let marks=85;
+if(marks>=90){
+    console.log("Grade A");
+} else if(marks>=80){
+    console.log("Grade B");
+} else if(marks>=70){
+    console.log("Grade C");
+} else if(marks>=60){
+    console.log("Grade D");
+} else{
+    console.log("Grade F");
+} */
+
+for(let i=1;i<=5;i++){
+    console.log(i);
 }
+let i=1;
+while(i<=5){
+    console.log(i);
+    i++;
+}
+let j=1;
+do{
+    console.log(j);
+    j++;
+}while(j<=5);
