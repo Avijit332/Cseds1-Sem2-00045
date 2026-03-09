@@ -17,8 +17,7 @@
 // }
 // console.log(student);
 
-/*
-//arithmatic operator
+/* //arithmatic operator
 let a=10;
 let b=2;
 console.log(a+b);       //12
@@ -79,7 +78,7 @@ if(marks>=90){
 } else{
     console.log("Grade F");
 } */
-
+/*
 for(let i=1;i<=5;i++){
     console.log(i);
 }
@@ -92,4 +91,9 @@ let j=1;
 do{
     console.log(j);
     j++;
-}while(j<=5);
+}while(j<=5);*/
+// arrays
+let fruits = ["apple", "banana", "orange"];
+console.log(fruits);
+fruits.push("grape");
+console.log(fruits.length);
