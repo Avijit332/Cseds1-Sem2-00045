@@ -1,0 +1,26 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.main {
+    color: #333;
+    margin-bottom: 20px;
+}
+.container {
+    background-color: #fff;
+    padding: 40px;
+    margin: 100px auto;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+.button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
